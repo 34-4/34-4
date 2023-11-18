@@ -32,3 +32,5 @@ Here are a few skills i have:
 
 - Start date: 2021
 - Title: 3D models creator
+
+![](https://komarev.com/ghpvc/?username=34-4&style=flat)
