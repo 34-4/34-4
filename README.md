@@ -21,7 +21,7 @@ Here are a few skills i have:
 - Title: Bot Creator
 
 
-• I started reverse engineering mid 2022 i found a passion for modding app, changing app icons, game asset, adding unlimited money ect. I don't share my mod nor contribute to game hacking. Only doing for fun then reporting it to the developers team!
+• I started reverse engineering because i found a passion for modding app, changing app icons, game asset, adding unlimited money ect. I don't share my mod nor contribute to game hacking. Only doing for fun then reporting it to the developers team!
 [![Reverse Engineering](https://skillicons.dev/icons?i=androidstudio)](https://skillicons.dev)
 
 - Start date: 2022-2023
