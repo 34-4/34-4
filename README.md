@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Slabo+27px&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Hello+there!;I'm+Ervan.;A+Reverse+Engineer+%26+Programmer!;So+scroll+down+to+find+out!)](https://git.io/typing-svg)
 
+-- --  -- -- -- -- -- -- -- -- -- --
+
 Software's i use:
 <p align="center">
   <a href="https://skillicons.dev">
