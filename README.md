@@ -7,30 +7,34 @@ Software's i use:
   </a>
 </p>
 
-• I'm mostly using Unreal Engine for game creation! 
-[![Gaming](https://skillicons.dev/icons?i=unreal)](https://skillicons.dev)
-
 - Start date: mid 2021
 - Title: That one random guy creating game for fun
 
+• I'm mostly using Unreal Engine for game creation! 
+[![Gaming](https://skillicons.dev/icons?i=unreal)](https://skillicons.dev)
 
-• Using Pycord (Python) for creating my discord bot!
-[![Bot & Stuff](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+-- --  -- -- -- -- -- -- -- -- -- --
 
 - Start date: 2021
 - Title: Bot Creator
 
+• Using Pycord (Python) for creating my discord bot!
+[![Bot & Stuff](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 
-• I started reverse engineering because i found a passion for modding app, changing app icons, game asset, adding unlimited money ect. I don't share my mod nor contribute to game hacking. Only doing for fun then reporting it to the developers team!
-[![Reverse Engineering](https://skillicons.dev/icons?i=androidstudio)](https://skillicons.dev)
+-- --  -- -- -- -- -- -- -- -- -- --
 
 - Start date: 2022-2023
 - Title: Game Modder
 
+• I started reverse engineering because i found a passion for modding app, changing app icons, game asset, adding unlimited money ect. I don't share my mod nor contribute to game hacking. Only doing for fun then reporting it to the developers team!
+[![Reverse Engineering](https://skillicons.dev/icons?i=androidstudio)](https://skillicons.dev)
 
-• I love blender since i started it, my passion to create 3D models, objects for game and developers to use them make me proud of my capacity, i've always wanted to help game developers so i will keep doing more! [![3D](https://skillicons.dev/icons?i=blender)](https://skillicons.dev)
+-- --  -- -- -- -- -- -- -- -- -- --
 
 - Start date: 2021
 - Title: 3D models creator
+
+• I love blender since i started it. [![3D](https://skillicons.dev/icons?i=blender)](https://skillicons.dev)
+
 
 ![](https://komarev.com/ghpvc/?username=34-4&style=flat)
