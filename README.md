@@ -9,6 +9,8 @@ Software's i use:
   </a>
 </p>
 
+-- --  -- -- -- -- -- -- -- -- -- --
+
 - Start date: mid 2021
 - Title: That one random guy creating game for fun
 
