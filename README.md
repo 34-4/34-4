@@ -38,7 +38,7 @@ Software i use:
 - Start date: 2021
 - Title: 3D models creator
 
-• I love blender since i started it. [![3D](https://skillicons.dev/icons?i=blender)]
+• I love blender since i started it. ![3D](https://skillicons.dev/icons?i=blender)
 
 
 ![](https://komarev.com/ghpvc/?username=34-4&style=flat)
