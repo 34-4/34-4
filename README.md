@@ -1,44 +1,57 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Slabo+27px&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Hello+there!;I'm+Ervan.;A+Reverse+Engineer+%26+Programmer!;Thanks+for+visiting+!)](https://git.io/typing-svg)
 
--- --  -- -- -- -- -- -- -- -- -- --
+---
 
-Software i use:
+## 🛠 Software I Mostly Use:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=blender,figma,vscode,unreal,robloxstudio" />
+    <img src="https://skillicons.dev/icons?i=blender,figma,vscode,unreal" />
   </a>
 </p>
 
--- --  -- -- -- -- -- -- -- -- -- --
+---
 
-- Start date: mid 2021
-- Title: That one random guy creating game for fun
+## 🎮 Game Creation (Since 2021)
+- **Title:** That one random guy creating games for fun.
+- **Tools:** Unreal Engine
 
-• I'm mostly using Unreal Engine for game creation! 
-[![Gaming](https://skillicons.dev/icons?i=unreal)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unreal" alt="Unreal Engine Icon" />
+  </a>
+</p>
 
--- --  -- -- -- -- -- -- -- -- -- --
+---
 
-- Start date: 2021
-- Title: Bot Creator
+## 🤖 Bot Creator (Since 2021)
+- **Title:** Discord Bot Developer
+- **Tech Stack:** Pycord (discord.py fork)
 
-• Using Pycord (discord.py forked version) for creating my discord bot!
-[![Bot & Stuff](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py" alt="Python Icon" />
+  </a>
+</p>
 
--- --  -- -- -- -- -- -- -- -- -- --
+---
 
-- Start date: 2022-2023
-- Title: Game Modder
+## 🛠 Game Modding & Reverse Engineering (2022-2023)
+- **Title:** Game Modder
+- **Passion:** I started reverse engineering to mod apps (changing icons, assets, adding unlimited money, etc.).  
+  *Note: I don't share mods or contribute to game hacking. I do it for fun and report findings to developers.*
 
-• I started reverse engineering because i found a passion for modding app, changing app icons, game asset, adding unlimited money ect. I don't share my mod nor contribute to game hacking. Only doing for fun then reporting it to the developers team!
-[![Reverse Engineering]]
+---
 
--- --  -- -- -- -- -- -- -- -- -- --
+## 🖼 3D Modeling (Since 2021)
+- **Title:** 3D Models Creator
+- **Tools:** Blender
 
-- Start date: 2021
-- Title: 3D models creator
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=blender" alt="Blender Icon" />
+  </a>
+</p>
 
-• I love blender since i started it. ![3D](https://skillicons.dev/icons?i=blender)
-
+---
 
 ![](https://komarev.com/ghpvc/?username=34-4&style=flat)
