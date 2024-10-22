@@ -54,7 +54,4 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=34-4&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=34-4&layout=compact)
-
 ![](https://komarev.com/ghpvc/?username=34-4&style=flat)
