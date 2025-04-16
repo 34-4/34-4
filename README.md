@@ -3,7 +3,7 @@
 ---
 
 CEO @ RVE-X (since 2021)
-Building cool stuff at RVE-X — including a bot app I hope you'll enjoy as much as I do.
+- Building cool stuff at RVE-X — including a bot app I hope you'll enjoy as much as I do.
 
 ---
 
