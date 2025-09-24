@@ -27,7 +27,7 @@
       <img src="https://cdn3.emoji.gg/emojis/77766-sakura.gif" width="20" height="20" alt="sakura" style="vertical-align: middle; margin-right: 6px;"/>
       <span style="font-weight:500;">Making silly projects at RVE-X, including a Discord bot I made and enjoy maintaining.</span>
       <br>
-      <span style="font-weight:500;">Invite the bot anytime via the link in my GitHub bio!</span>
+      <span style="font-weight:500; align="center">Invite the bot anytime via the link in my GitHub bio!</span>
       <img src="https://cdn3.emoji.gg/emojis/77766-sakura.gif" width="20" height="20" alt="sakura" style="vertical-align: middle; margin-left: 6px;"/>
     </td>
   </tr>
