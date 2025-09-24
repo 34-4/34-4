@@ -14,12 +14,14 @@ CEO @ RVE-X (since 2021)
   <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="40" height="40" />
   <img src="https://skillicons.dev/icons?i=unreal" alt="Unreal Engine" width="40" height="40" />
 </p>
---
+
+---
 
 # Game Creation (Since 2021)  
 <img src="https://skillicons.dev/icons?i=unreal" alt="" width="32" height="32" align="left" style="margin-right:10px" />  
 - Title: That one random guy creating games for fun.  
 - Tools: Unreal Engine
+---
 
 # Bot Creator (Since 2021)  
 <img src="https://skillicons.dev/icons?i=py" alt="Python Icon" width="32" height="32" align="left" style="margin-right:10px" />  
