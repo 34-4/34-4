@@ -37,7 +37,7 @@
 
 ## Software I Mostly Use:  
 
-[![My Skills](https://skillicons.dev/icons?i=blender,figma,vscode,unity&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=blender,figma,vscode,unity&perline=2)](https://skillicons.dev)
 
 
 
