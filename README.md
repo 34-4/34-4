@@ -9,10 +9,10 @@ CEO @ RVE-X (since 2021)
 
 ## Software I Mostly Use:  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=blender" alt="Blender" width="80" height="80" />
-  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="80" height="80" />
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="80" height="80" />
-  <img src="https://skillicons.dev/icons?i=unreal" alt="Unreal Engine" width="80" height="80" />
+  <img src="https://skillicons.dev/icons?i=blender" alt="Blender" width="70" height="70" />
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="70" height="70" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="70" height="70" />
+  <img src="https://skillicons.dev/icons?i=unreal" alt="Unreal Engine" width="70" height="70" />
 </p>
 
 ‎ ‎ 
