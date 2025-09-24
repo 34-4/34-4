@@ -37,4 +37,5 @@ CEO @ RVE-X (since 2021)
 <img src="https://skillicons.dev/icons?i=blender" alt="Blender Icon" width="32" height="32" align="left" style="margin-right:10px" />  
 - Title: 3D Models Creator  
 - Tools: Blender
+
 ---
