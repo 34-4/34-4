@@ -36,13 +36,12 @@
 <br><br>
 
 ## Software I Mostly Use:  
+
 <p align="center">
   <br><br>
-  <img src="https://skillicons.dev/icons?i=blender" alt="Blender" width="70" height="70" />
-  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="70" height="70" />
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="70" height="70" />
-  <img src="https://skillicons.dev/icons?i=unity" alt="Unity" width="70" height="70" />
+  [![My Skills](https://skillicons.dev/icons?i=blender,figma,vscode,unity,unity&perline=3)](https://skillicons.dev)
 </p>
+
 
 <br><br><br> <!-- evil? mhm.. maybe? or is this like a reward for scrolling to the end? (too much <br> tags in this code..) -->
 
