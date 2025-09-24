@@ -44,8 +44,7 @@
   <img src="https://skillicons.dev/icons?i=unreal" alt="Unreal Engine" width="70" height="70" />
 </p>
 
-
-<div style="height: 50px;"></div>  <!-- yeah, its lots of works to see this lol.. -->
+<br><br><br><br><br><br><br><br><br><br>  <!-- about 10 line breaks -->
 
 <sub>
     <p align="center" style="margin-top: 20px;">
@@ -58,5 +57,3 @@
 <p align="center" style="margin-top: 10px;">
   <img src="https://media1.tenor.com/m/8g7BE38h2YsAAAAC/yorukura-nonono.gif" alt="Cute anime girl" />
 </p>
-
-
