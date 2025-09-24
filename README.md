@@ -10,7 +10,9 @@
 </sub>
 ‎ ‎ 
 
-# こんにちは、エルバンです。はじめまして。
+<p align="center">
+  # こんにちは、エルバンです。はじめまして。
+</p>
 
 <p align="center">
   <img src="https://cdn3.emoji.gg/emojis/2971-kiananonono.png" alt="cute" width="40" height="40"/> CEO @ RVE-X (since 2021)
