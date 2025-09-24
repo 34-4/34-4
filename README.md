@@ -1,41 +1,26 @@
-Welcome to My Profile
+![Profile Views](https://count.getloli.com/@34-4?name=34-4&theme=booru-lisu&padding=7&offset=0&align=center&scale=1&pixel)
 
-![SVG](https://count.getloli.com/@34-4?name=34-4&theme=booru-lisu&padding=7&offset=0&align=center&scale=1&pixel)
-
-**About Me**
----
+About Me
 CEO @ RVE-X (since 2021)
 
-Building creative tools and projects at RVE-X.
+Building: creative tools and projects at RVE-X.
 
-Working on a Discord bot you can invite via my GitHub bio.
+Working on: a Discord bot you can invite via my GitHub bio.
 
-Interested in software development, game creation, and reverse engineering.
----
-Software I Work With
-<p align="center"> <img src="https://skillicons.dev/icons?i=blender,figma,vscode,unreal,py" /> </p>
+Passions: software development, game creation, and reverse engineering.
+
+Software I Mostly Use
+<p align="center"> <img src="https://skillicons.dev/icons?i=blender" alt="Blender" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=unreal" alt="Unreal Engine" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40" /> </p>
 Game Development
-Started creating games in 2021.
-
-Primarily using Unreal Engine for prototyping and development.
-
-<p align="center"> <img src="https://skillicons.dev/icons?i=unreal" alt="Unreal Engine Icon" /> </p>
+<img src="https://skillicons.dev/icons?i=unreal" alt="Unreal Engine" width="32" height="32" align="left" style="margin-right:10px"/> **Indie Game Developer (Since 2021)** - Mainly using **Unreal Engine** to prototype and build games for fun and learning.
 Bot Development
-Active as a Discord Bot Developer since 2021.
-
-Using Python with Pycord (a fork of discord.py).
-
-<p align="center"> <img src="https://skillicons.dev/icons?i=python" alt="Python Icon" /> </p>
+<img src="https://skillicons.dev/icons?i=python" alt="Python" width="32" height="32" align="left" style="margin-right:10px"/> **Discord Bot Developer (Since 2021)** - Developing bots with **Pycord** (a popular Python discord.py fork). - Bots designed for community engagement and automation.
 Reverse Engineering & Game Modding
-Started modding apps in 2022–2023 by experimenting with assets, icons, and functionality.
+Game Modding Enthusiast (2022–2023)
 
-Use reverse engineering as a way to learn more about software design.
+Reverse engineered apps and games to learn about internals: changing icons, assets, testing features.
 
-I don’t publish hacks or cracked apps — findings are for personal research and often reported to developers.
+Note: No mods or hacks distributed; research shared responsibly.
 
 3D Modeling
-Began creating 3D models in 2021.
-
-Mainly using Blender for modeling and design.
-
-<p align="center"> <img src="https://skillicons.dev/icons?i=blender" alt="Blender Icon" /> </p>
+<img src="https://skillicons.dev/icons?i=blender" alt="Blender" width="32" height="32" align="left" style="margin-right:10px"/> **3D Model Creator (Since 2021)** - Created models using **Blender** for games and projects.
