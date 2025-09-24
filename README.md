@@ -53,7 +53,7 @@
     </p>
 </sub>
 
-<p align="center" style="margin-top: 50px;">
+<p align="center" style="margin-top: -50px;">
   <img src="https://media1.tenor.com/m/8g7BE38h2YsAAAAC/yorukura-nonono.gif" alt="Cute anime girl" />
 </p>
 
