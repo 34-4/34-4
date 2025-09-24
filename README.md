@@ -63,4 +63,7 @@ Game Modding & Reverse Engineering (2022-2023)
     </p>
 </sub>
 
-![Cute anime girl](https://media1.tenor.com/m/8g7BE38h2YsAAAAC/yorukura-nonono.gif)
+<p align="center">
+  <img src="https://media1.tenor.com/m/8g7BE38h2YsAAAAC/yorukura-nonono.gif" alt="Cute anime girl" />
+</p>
+
