@@ -15,11 +15,13 @@
 <p align="center">
   <img src="https://cdn3.emoji.gg/emojis/2971-kiananonono.png" alt="cute" width="70" height="70"/>
 </p>
-
+<small>
 **CEO @ RVE-X (since 2021)**
+</small>
 
 - Crafting silly projects at RVE-X, including a Discord bot I made and enjoy maintaining.
 - Invite the bot anytime via the link in my GitHub bio.
+
 
 
 ## Software I Mostly Use:  
