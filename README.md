@@ -23,7 +23,6 @@ CEO @ RVE-X (since 2021)
   <img src="https://skillicons.dev/icons?i=unreal" alt="Unreal Engine" width="70" height="70" />
 </p>
 ‎ 
----
 
 <sub>
     <p align="center">
