@@ -43,5 +43,6 @@ CEO @ RVE-X (since 2021)
 - Title: 3D Models Creator  
 - Tools: Blender
 ‎ ‎ ‎ ‎ 
-‎ ‎ ‎ 
+‎ ‎ ‎
+
 ![Cute anime girl](https://media1.tenor.com/m/8g7BE38h2YsAAAAC/yorukura-nonono.gif)
