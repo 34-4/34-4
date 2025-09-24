@@ -15,26 +15,28 @@ CEO @ RVE-X (since 2021)
   <img src="https://skillicons.dev/icons?i=unreal" alt="Unreal Engine" width="40" height="40" />
 </p>
 
----
+‎ ‎ 
 
 # Game Creation (Since 2021)  
 <img src="https://skillicons.dev/icons?i=unreal" alt="" width="32" height="32" align="left" style="margin-right:10px" />  
 - Title: That one random guy creating games for fun.  
 - Tools: Unreal Engine
----
+
+‎ ‎ 
 
 # Bot Creator (Since 2021)  
 <img src="https://skillicons.dev/icons?i=py" alt="Python Icon" width="32" height="32" align="left" style="margin-right:10px" />  
 - Title: Discord Bot Developer  
 - Tech Stack: Pycord (discord.py fork)
----
+
+‎ ‎ 
 
 # Game Modding & Reverse Engineering (2022-2023)  
 - Title: Game Modder  
 - Passion: I started reverse engineering to mod apps (changing icons, assets, adding unlimited money, etc.).  
   *Note: I don't share mods or contribute to game hacking. I do it for fun and report findings to developers.*
 
----
+‎ ‎ 
 
 # 3D Modeling (Since 2021)  
 <img src="https://skillicons.dev/icons?i=blender" alt="Blender Icon" width="32" height="32" align="left" style="margin-right:10px" />  
