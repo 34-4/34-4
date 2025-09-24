@@ -23,7 +23,7 @@
   </span>
 </p>
 
-<br><br>
+<br>
 
 <div align="center" style="padding: 20px 24px; background: #181a1b; border-radius: 12px; font-family: 'Orbitron', Tahoma, Geneva, Verdana, sans-serif; font-size: 15px; color: #000000; max-width: 600px; margin: auto;">
   <img src="https://cdn3.emoji.gg/emojis/77766-sakura.gif" width="20" height="20" alt="sakura" style="vertical-align: middle; margin-right: 6px;"/>
@@ -44,7 +44,7 @@
   <img src="https://skillicons.dev/icons?i=unreal" alt="Unreal Engine" width="70" height="70" />
 </p>
 
-<br><br><br><br><br> <!-- evil? mhm.. maybe? or is this like a reward for scrolling to the end? (too much <br> tags..) -->
+<br><br><br><br><br> <!-- evil? mhm.. maybe? or is this like a reward for scrolling to the end? (too much <br> tags in this code..) -->
 
 <sub>
     <p align="center" style="margin-top: 20px;">
