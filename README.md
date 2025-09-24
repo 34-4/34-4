@@ -26,7 +26,7 @@
 <!-- Main info box with more neutral colors/padding and clear structure -->
 <table align="center" width="100%">
   <tr>
-    <td align="center" style="padding: 20px 24px; background: #181a1b; border: 1px solid #333; border-radius: 12px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 15px; color: #f2d3e2;">
+    <td align="center" style="padding: 20px 24px; background: #181a1b; border: 1px solid #333; border-radius: 12px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 15px; color: #000000;">
       <img src="https://cdn3.emoji.gg/emojis/77766-sakura.gif" width="20" height="20" alt="sakura" style="vertical-align: middle; margin-right: 6px;"/>
       <span style="font-weight:500;">Making silly projects at RVE-X, including a Discord bot I made and enjoy maintaining.</span>
       <br>
