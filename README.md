@@ -37,7 +37,11 @@
 
 ## Software I Mostly Use:  
 
-[![My Skills](https://skillicons.dev/icons?i=blender,figma,vscode,unity&perline=2)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=blender,figma,vscode,unity,unity&perline=3" alt="My Skills" />
+  </a>
+</p>
 
 
 
