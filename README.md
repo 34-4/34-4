@@ -7,7 +7,7 @@ CEO @ RVE-X (since 2021)
 - You can invite the bot by clicking my github link in bio.
 ---
 
-## 🛠 Software I Mostly Use:
+## Software I Mostly Use:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=blender,figma,vscode,unreal" />
@@ -16,7 +16,7 @@ CEO @ RVE-X (since 2021)
 
 ---
 
-## 🎮 Game Creation (Since 2021)
+## Game Creation (Since 2021)
 - **Title:** That one random guy creating games for fun.
 - **Tools:** Unreal Engine
 
@@ -28,7 +28,7 @@ CEO @ RVE-X (since 2021)
 
 ---
 
-## 🤖 Bot Creator (Since 2021)
+## Bot Creator (Since 2021)
 - **Title:** Discord Bot Developer
 - **Tech Stack:** Pycord (discord.py fork)
 
@@ -40,14 +40,14 @@ CEO @ RVE-X (since 2021)
 
 ---
 
-## 🛠 Game Modding & Reverse Engineering (2022-2023)
+## Game Modding & Reverse Engineering (2022-2023)
 - **Title:** Game Modder
 - **Passion:** I started reverse engineering to mod apps (changing icons, assets, adding unlimited money, etc.).  
   *Note: I don't share mods or contribute to game hacking. I do it for fun and report findings to developers.*
 
 ---
 
-## 🖼 3D Modeling (Since 2021)
+## 3D Modeling (Since 2021)
 - **Title:** 3D Models Creator
 - **Tools:** Blender
 
@@ -58,5 +58,3 @@ CEO @ RVE-X (since 2021)
 </p>
 
 ---
-
-![](https://komarev.com/ghpvc/?username=34-4&style=flat)
