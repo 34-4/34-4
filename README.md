@@ -2,7 +2,8 @@ Welcome to My Profile
 
 ![SVG](https://count.getloli.com/@34-4?name=34-4&theme=booru-lisu&padding=7&offset=0&align=center&scale=1&pixel)
 
-About Me
+**About Me**
+---
 CEO @ RVE-X (since 2021)
 
 Building creative tools and projects at RVE-X.
@@ -10,7 +11,7 @@ Building creative tools and projects at RVE-X.
 Working on a Discord bot you can invite via my GitHub bio.
 
 Interested in software development, game creation, and reverse engineering.
-
+---
 Software I Work With
 <p align="center"> <img src="https://skillicons.dev/icons?i=blender,figma,vscode,unreal,py" /> </p>
 Game Development
