@@ -20,14 +20,16 @@
 
 <table align="center">
   <tr>
-    <td>
-      <ul>
-        <li>Crafting silly projects at RVE-X, including a Discord bot I made and enjoy maintaining.</li>
-        <li>Invite the bot anytime via the link in my GitHub bio.</li>
-      </ul>
+    <td align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 14px; color: #ff69b4;">
+      <img src="(https://cdn3.emoji.gg/emojis/77766-sakura.gif)" width="20" height="20" alt="emoji1" style="vertical-align: middle;"/>  
+      Crafting silly projects at RVE-X, including a Discord bot I made and enjoy maintaining.  
+      <br>
+      <img src="YOUR_CUSTOM_EMOJI_URL_2" width="20" height="20" alt="emoji2" style="vertical-align: middle;"/>  
+      Invite the bot anytime via the link in my GitHub bio!
     </td>
   </tr>
 </table>
+
 
 
 ## Software I Mostly Use:  
