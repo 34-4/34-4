@@ -38,11 +38,12 @@ CEO @ RVE-X (since 2021)
 
 ‎ ‎ 
 
-# 3D Modeling (Since 2021)  
+# 3D Modeling (Since 2021)
+‎ 
 <img src="https://skillicons.dev/icons?i=blender" alt="Blender Icon" width="32" height="32" align="left" style="margin-right:10px" />  
 - Title: 3D Models Creator  
 - Tools: Blender
-
+‎ 
 ---
 
 ![Cute anime girl](https://media1.tenor.com/m/8g7BE38h2YsAAAAC/yorukura-nonono.gif)
