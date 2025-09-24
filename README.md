@@ -47,7 +47,9 @@
 <sub>
     <p align="center" style="margin-top: 20px;">
         <i>
-             silly gif for reaching the end.
+             Once you reach the end, you'll get a reward they said..
+             Looks like they actually didn't lie, but mhm.. a gif as a reward for scrolling someone GitHub readme profile?
+             Your reward(s): silly gif for reaching the end.
         </i>
     </p>
 </sub>
