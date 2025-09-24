@@ -48,10 +48,11 @@
     <p align="center" style="margin-top: 20px;">
         <i>
              silly gif for reaching the end.
-            <br><br><br>
         </i>
     </p>
 </sub>
+
+<br><br>
 
 <p align="center" style="margin-top: 10px;">
   <img src="https://media1.tenor.com/m/8g7BE38h2YsAAAAC/yorukura-nonono.gif" alt="Cute anime girl" />
