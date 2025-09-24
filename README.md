@@ -37,10 +37,8 @@
 
 ## Software I Mostly Use:  
 
-<p align="center">
-  <br><br>
-  [![My Skills](https://skillicons.dev/icons?i=blender,figma,vscode,unity,unity&perline=3)](https://skillicons.dev)
-</p>
+[![My Skills](https://skillicons.dev/icons?i=blender,figma,vscode,unity&perline=3)](https://skillicons.dev)
+
 
 
 <br><br><br> <!-- evil? mhm.. maybe? or is this like a reward for scrolling to the end? (too much <br> tags in this code..) -->
