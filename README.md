@@ -13,7 +13,7 @@
 # こんにちは、エルバンです。はじめまして。
 
 <p align="center">
-  <img src="https://cdn3.emoji.gg/emojis/2971-kiananonono.png" alt="cute" width="70" height="70"/> CEO @ RVE-X (since 2021)
+  <img src="https://cdn3.emoji.gg/emojis/2971-kiananonono.png" alt="cute" width="40" height="40"/> CEO @ RVE-X (since 2021)
 </p>
 
 - Crafting silly projects at RVE-X, including a Discord bot I made and enjoy maintaining.
