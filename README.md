@@ -42,7 +42,7 @@ CEO @ RVE-X (since 2021)
 # Game Modding & Reverse Engineering (2022-2023)
 - Title: Game Modder
 
-- Passion: I explored reverse engineering to modify apps by changing icons, assets, and adding features like unlimited in-game currency.
+- Passion: I explored reverse engineering to modify apps by changing icons, assets, and adding features like unlimited in-game or/and other currency.
 - Note: I do not distribute mods or engage in game hacking. My work is strictly for personal learning, and I responsibly report any findings to the developers involved.
 
 ‎ ‎ 
