@@ -26,7 +26,6 @@
 </p>
 
 
-
 ## Software I Mostly Use:  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=blender" alt="Blender" width="70" height="70" />
