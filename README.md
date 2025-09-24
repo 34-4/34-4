@@ -19,8 +19,10 @@
 </p>
 
 <p align="center">
-  - Crafting silly projects at RVE-X, including a Discord bot I made and enjoy maintaining.
-  - Invite the bot anytime via the link in my GitHub bio.
+  <ul>
+    <li>Crafting silly projects at RVE-X, including a Discord bot I made and enjoy maintaining.</li>
+    <li>Invite the bot anytime via the link in my GitHub bio.</li>
+  </ul>
 </p>
 
 
