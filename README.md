@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Slabo+27px&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Hello+there!;I'm+Ervan.;A+Reverse+Engineer+%26+Programmer!;Thanks+for+visiting+!)](https://git.io/typing-svg)
+[![SVG](https://count.getloli.com/@34-4?name=34-4&theme=booru-lisu&padding=7&offset=0&align=center&scale=1&pixelated=0&darkmode=auto)
 
 ---
 
