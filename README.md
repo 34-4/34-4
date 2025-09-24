@@ -43,23 +43,17 @@
   <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="70" height="70" />
   <img src="https://skillicons.dev/icons?i=unreal" alt="Unreal Engine" width="70" height="70" />
 </p>
-‎
-‎ 
-‎ 
+
 
 <sub>
-    <p align="center">
+    <p align="center" style="margin-top: 40px;">
         <i>
              silly gif for reaching the end.
         </i>
     </p>
 </sub>
 
-
-
-‎ 
-
-<p align="center">
+<p align="center" style="margin-top: 20px;">
   <img src="https://media1.tenor.com/m/8g7BE38h2YsAAAAC/yorukura-nonono.gif" alt="Cute anime girl" />
 </p>
 
