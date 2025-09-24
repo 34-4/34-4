@@ -1,4 +1,6 @@
-![Profile Views](https://count.getloli.com/@34-4?name=34-4&theme=booru-lisu&padding=7&offset=0&align=center&scale=1&pixelated=0&darkmode=auto)
+<p align="center">
+  <img src="https://count.getloli.com/@34-4?name=34-4&theme=booru-lisu&padding=7&offset=0&align=center&scale=1&pixelated=0&darkmode=auto" />
+</p>
 
 ‎ ‎ 
 
