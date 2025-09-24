@@ -14,14 +14,14 @@
   /// こんにちは、エルバンです。はじめまして。
 </p>
 
-<br><br><br><br><br>
-
 <p align="center" style="margin-top:10px; font-size:16px;">
   <img src="https://cdn3.emoji.gg/emojis/174779-nikkibutterfly.png" alt="cute" width="32" height="32" style="vertical-align:middle;"/>
   <span style="font-weight:600; color:#deb6d6; margin-left:6px;">
     CEO @ RVE-X (since 2021)
   </span>
 </p>
+
+<br><br>
 
 <div align="center" style="padding: 20px 24px; background: #181a1b; border-radius: 12px; font-family: 'Orbitron', Tahoma, Geneva, Verdana, sans-serif; font-size: 15px; color: #000000; max-width: 600px; margin: auto;">
   <img src="https://cdn3.emoji.gg/emojis/77766-sakura.gif" width="20" height="20" alt="sakura" style="vertical-align: middle; margin-right: 6px;"/>
