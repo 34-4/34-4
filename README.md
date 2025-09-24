@@ -22,10 +22,10 @@
   <tr>
     <td align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 14px; color: #ff69b4;">
       <img src="https://cdn3.emoji.gg/emojis/77766-sakura.gif" width="20" height="20" alt="emoji1" style="vertical-align: middle;"/>  
-      Crafting silly projects at RVE-X, including a Discord bot I made and enjoy maintaining.  
-      <br>
-      <img src="https://cdn3.emoji.gg/emojis/77766-sakura.gif" width="20" height="20" alt="emoji2" style="vertical-align: middle;"/>  
+      Making silly projects at RVE-X, including a Discord bot I made and enjoy maintaining.  
+      <br>  
       Invite the bot anytime via the link in my GitHub bio!
+      <img src="https://cdn3.emoji.gg/emojis/77766-sakura.gif" width="20" height="20" alt="emoji2" style="vertical-align: middle;"/>
     </td>
   </tr>
 </table>
