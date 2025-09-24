@@ -35,7 +35,7 @@
 
 <br><br>
 
-## Software & Languages I Mostly Use (or learn):  
+## Software and Languages I'm Skilled In and Exploring:  
 <br><br>
 <p align="center">
   <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
