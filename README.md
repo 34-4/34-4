@@ -1,6 +1,6 @@
 ![Profile Views](https://count.getloli.com/@34-4?name=34-4&theme=booru-lisu&padding=7&offset=0&align=center&scale=1&pixelated=0&darkmode=auto)
 
----
+‎ ‎ 
 
 CEO @ RVE-X (since 2021)  
 - Building cool stuff at RVE-X, including a bot app I hope you'll enjoy as much as I do.  
