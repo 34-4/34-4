@@ -35,11 +35,11 @@
 
 <br><br>
 
-## Software I Mostly Use:  
+## Software & Languages I Mostly Use (or learn):  
 <br><br>
 <p align="center">
   <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=blender,figma,vscode,unity,unity&perline=3" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=blender,figma,vscode,unity, python, javascript&perline=2" alt="My Skills" />
   </a>
 </p>
 
