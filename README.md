@@ -45,7 +45,7 @@
 </p>
 
 
-<div style="height: 500px;"></div>  <!-- yeah, its lots of works to see this lol.. -->
+<div style="height: 50px;"></div>  <!-- yeah, its lots of works to see this lol.. -->
 
 <sub>
     <p align="center" style="margin-top: 20px;">
