@@ -18,12 +18,16 @@
   <img src="https://cdn3.emoji.gg/emojis/174779-nikkibutterfly.png" alt="cute" width="40" height="40"/> CEO @ RVE-X (since 2021)
 </p>
 
-<p align="center">
-  <ul>
-    <li>Crafting silly projects at RVE-X, including a Discord bot I made and enjoy maintaining.</li>
-    <li>Invite the bot anytime via the link in my GitHub bio.</li>
-  </ul>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <ul>
+        <li>Crafting silly projects at RVE-X, including a Discord bot I made and enjoy maintaining.</li>
+        <li>Invite the bot anytime via the link in my GitHub bio.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 
 ## Software I Mostly Use:  
