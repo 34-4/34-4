@@ -17,7 +17,7 @@
 - Crafting silly projects at RVE-X, including a Discord bot I made and enjoy maintaining.
 - Invite the bot anytime via the link in my GitHub bio.
 
-![Cute Anime Girl](https://media.tenor.com/your-tenor-gif-link.gif)
+![Cute Anime Girl](https://cdn3.emoji.gg/emojis/2971-kiananonono.png)
 
 
 
