@@ -32,10 +32,9 @@ CEO @ RVE-X (since 2021)
 - Passion: I started reverse engineering to mod apps (changing icons, assets, adding unlimited money, etc.).  
   *Note: I don't share mods or contribute to game hacking. I do it for fun and report findings to developers.*
 
+---
 
 ## 3D Modeling (Since 2021)  
 <img src="https://skillicons.dev/icons?i=blender" alt="Blender Icon" width="32" height="32" align="left" style="margin-right:10px" />  
 - Title: 3D Models Creator  
 - Tools: Blender
-
----
