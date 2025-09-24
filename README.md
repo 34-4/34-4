@@ -48,14 +48,21 @@
     <p align="center" style="margin-top: 20px;">
         <i>
              Once you reach the end, you'll get a reward they said..
-             Looks like they actually didn't lie, but mhm.. a gif as a reward for scrolling someone GitHub readme profile?
-             Your reward(s): silly gif for reaching the end.
         </i>
     </p>
 </sub>
 
 <br><br>
 
+<sub>
+    <p align="center" style="margin-top: 20px;">
+        <i>
+             Looks like they actually didn't lie, but mhm.. a gif as a reward for scrolling someone GitHub readme profile?
+        </i>
+    </p>
+</sub>
+
+<br><br>
 <p align="center" style="margin-top: 10px;">
   <img src="https://media1.tenor.com/m/8g7BE38h2YsAAAAC/yorukura-nonono.gif" alt="Cute anime girl" />
 </p>
