@@ -21,19 +21,10 @@ CEO @ RVE-X (since 2021)
 - Title: That one random guy creating games for fun.  
 - Tools: Unreal Engine
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=unreal" alt="Unreal Engine Icon" />
-</p>
-
-
 ## Bot Creator (Since 2021)  
 <img src="https://skillicons.dev/icons?i=py" alt="Python Icon" width="32" height="32" align="left" style="margin-right:10px" />  
 - Title: Discord Bot Developer  
 - Tech Stack: Pycord (discord.py fork)
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py" alt="Python Icon" />
-</p>
 
 
 ## Game Modding & Reverse Engineering (2022-2023)  
@@ -46,9 +37,4 @@ CEO @ RVE-X (since 2021)
 <img src="https://skillicons.dev/icons?i=blender" alt="Blender Icon" width="32" height="32" align="left" style="margin-right:10px" />  
 - Title: 3D Models Creator  
 - Tools: Blender
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=blender" alt="Blender Icon" />
-</p>
-
 ---
