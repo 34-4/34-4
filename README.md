@@ -14,7 +14,7 @@
   /// こんにちは、エルバンです。はじめまして。
 </p>
 
-<br><br>
+<br>
 
 <p align="center" style="margin-top:10px; font-size:16px;">
   <img src="https://cdn3.emoji.gg/emojis/174779-nikkibutterfly.png" alt="cute" width="32" height="32" style="vertical-align:middle;"/>
