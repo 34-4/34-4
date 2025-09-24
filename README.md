@@ -10,25 +10,32 @@
 </sub>
 ‎ ‎ 
 
-<p align="center">
+<!-- Greeting section -->
+<p align="center" style="font-size:18px;">
   /// こんにちは、エルバンです。はじめまして。
 </p>
 
-<p align="center">
-  <img src="https://cdn3.emoji.gg/emojis/174779-nikkibutterfly.png" alt="cute" width="40" height="40"/> CEO @ RVE-X (since 2021)
+<!-- Role section with custom emoji and bolder styling -->
+<p align="center" style="margin-top:10px; font-size:16px;">
+  <img src="https://cdn3.emoji.gg/emojis/174779-nikkibutterfly.png" alt="cute" width="32" height="32" style="vertical-align:middle;"/>
+  <span style="font-weight:600; color:#deb6d6; margin-left:6px;">
+    CEO @ RVE-X (since 2021)
+  </span>
 </p>
 
-<table align="center">
+<!-- Main info box with more neutral colors/padding and clear structure -->
+<table align="center" width="100%">
   <tr>
-    <td align="center" style="padding: 15px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 14px; color: #ff69b4;">
-      <img src="https://cdn3.emoji.gg/emojis/77766-sakura.gif" width="20" height="20" alt="emoji1" style="vertical-align: middle;"/>  
-      Making silly projects at RVE-X, including a Discord bot I made and enjoy maintaining.  
-      <br>  
-      Invite the bot anytime via the link in my GitHub bio!
-      <img src="https://cdn3.emoji.gg/emojis/77766-sakura.gif" width="20" height="20" alt="emoji2" style="vertical-align: middle;"/>
+    <td align="center" style="padding: 20px 24px; background: #181a1b; border: 1px solid #333; border-radius: 12px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 15px; color: #f2d3e2;">
+      <img src="https://cdn3.emoji.gg/emojis/77766-sakura.gif" width="20" height="20" alt="sakura" style="vertical-align: middle; margin-right: 6px;"/>
+      <span style="font-weight:500;">Making silly projects at RVE-X, including a Discord bot I made and enjoy maintaining.</span>
+      <br>
+      <span style="font-weight:500;">Invite the bot anytime via the link in my GitHub bio!</span>
+      <img src="https://cdn3.emoji.gg/emojis/77766-sakura.gif" width="20" height="20" alt="sakura" style="vertical-align: middle; margin-left: 6px;"/>
     </td>
   </tr>
 </table>
+
 
 
 
