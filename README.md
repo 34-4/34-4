@@ -42,7 +42,7 @@
   <img src="https://skillicons.dev/icons?i=unreal" alt="Unreal Engine" width="70" height="70" />
 </p>
 
-<br><br><br><br><br><br><br><br><br> <!-- evil? mhm.. maybe? or is this like a reward for scrolling to the end? (too much <br> tags..) -->
+<br><br><br><br><br> <!-- evil? mhm.. maybe? or is this like a reward for scrolling to the end? (too much <br> tags..) -->
 
 <sub>
     <p align="center" style="margin-top: 20px;">
