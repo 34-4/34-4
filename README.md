@@ -33,10 +33,9 @@
   </tr>
 </table>
 
-<br><br>
-
 ## Software I Mostly Use:  
 <p align="center">
+  <br><br>
   <img src="https://skillicons.dev/icons?i=blender" alt="Blender" width="70" height="70" />
   <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="70" height="70" />
   <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="70" height="70" />
