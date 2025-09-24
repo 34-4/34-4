@@ -6,7 +6,6 @@ CEO @ RVE-X (since 2021)
 - Building cool stuff at RVE-X, including a bot app I hope you'll enjoy as much as I do.  
 - You can invite the bot by clicking my GitHub link in bio.
 
----
 
 ## Software I Mostly Use:  
 <p align="center">
@@ -16,7 +15,6 @@ CEO @ RVE-X (since 2021)
   <img src="https://skillicons.dev/icons?i=unreal" alt="Unreal Engine" width="40" height="40" />
 </p>
 
----
 
 ## Game Creation (Since 2021)  
 <img src="https://skillicons.dev/icons?i=unreal" alt="Unreal Engine Icon" width="32" height="32" align="left" style="margin-right:10px" />  
@@ -27,7 +25,6 @@ CEO @ RVE-X (since 2021)
   <img src="https://skillicons.dev/icons?i=unreal" alt="Unreal Engine Icon" />
 </p>
 
----
 
 ## Bot Creator (Since 2021)  
 <img src="https://skillicons.dev/icons?i=py" alt="Python Icon" width="32" height="32" align="left" style="margin-right:10px" />  
@@ -38,14 +35,12 @@ CEO @ RVE-X (since 2021)
   <img src="https://skillicons.dev/icons?i=py" alt="Python Icon" />
 </p>
 
----
 
 ## Game Modding & Reverse Engineering (2022-2023)  
 - Title: Game Modder  
 - Passion: I started reverse engineering to mod apps (changing icons, assets, adding unlimited money, etc.).  
   *Note: I don't share mods or contribute to game hacking. I do it for fun and report findings to developers.*
 
----
 
 ## 3D Modeling (Since 2021)  
 <img src="https://skillicons.dev/icons?i=blender" alt="Blender Icon" width="32" height="32" align="left" style="margin-right:10px" />  
