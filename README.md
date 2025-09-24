@@ -33,8 +33,7 @@
   </tr>
 </table>
 
-
-
+<br><br>
 
 ## Software I Mostly Use:  
 <p align="center">
