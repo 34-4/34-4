@@ -10,12 +10,10 @@
 </sub>
 ‎ ‎ 
 
-<!-- Greeting section -->
 <p align="center" style="font-size:18px;">
   /// こんにちは、エルバンです。はじめまして。
 </p>
 
-<!-- Role section with custom emoji and bolder styling -->
 <p align="center" style="margin-top:10px; font-size:16px;">
   <img src="https://cdn3.emoji.gg/emojis/174779-nikkibutterfly.png" alt="cute" width="32" height="32" style="vertical-align:middle;"/>
   <span style="font-weight:600; color:#deb6d6; margin-left:6px;">
@@ -23,7 +21,6 @@
   </span>
 </p>
 
-<!-- Main info box with more neutral colors/padding and clear structure -->
 <table align="center" width="100%">
   <tr>
     <td align="center" style="padding: 20px 24px; background: #181a1b; border: 1px solid #333; border-radius: 12px; font-family: 'Orbitron', Tahoma, Geneva, Verdana, sans-serif; font-size: 15px; color: #000000;">
@@ -55,6 +52,10 @@
         </i>
     </p>
 </sub>
+
+
+
+‎ 
 
 <p align="center">
   <img src="https://media1.tenor.com/m/8g7BE38h2YsAAAAC/yorukura-nonono.gif" alt="Cute anime girl" />
