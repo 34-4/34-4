@@ -55,7 +55,7 @@
     </p>
 </sub>
 
-<br><br>
+<br>
 
 <sub>
     <p align="center" style="margin-top: 20px;">
