@@ -17,7 +17,7 @@
 <br>
 
 <p align="center" style="margin-top:10px; font-size:16px;">
-  <img src="https://cdn3.emoji.gg/emojis/174779-nikkibutterfly.png" alt="cute" width="50" height="50" style="vertical-align:middle;"/>
+  <img src="https://cdn3.emoji.gg/emojis/174779-nikkibutterfly.png" alt="cute" width="80" height="80" style="vertical-align:middle;"/>
   <span style="font-weight:600; color:#deb6d6; margin-left:6px;">
   <p align="center">╾╾╾╾╾╾╾╾╾╾╾╾╾╾╾╾╾╾╾╾ ˗ˏˋ  CEO @ RVE-X (since 2021)  ´ˎ˗ ╾╾╾╾╾╾╾╾╾╾╾╾╾╾╾╾╾╾╾╾</p>
   </span>
