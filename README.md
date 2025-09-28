@@ -33,6 +33,9 @@
   <img src="https://cdn3.emoji.gg/emojis/77766-sakura.gif" width="20" height="20" alt="sakura" style="vertical-align: middle; margin-left: 6px;"/>
 </div>
 
+<img align="center" src="https://lanyard.cnrad.dev/api/367754019533488129" alt="Discord Status">
+
+
 <br><br>
 
 ## Software and Languages I'm Skilled In and Exploring:  
