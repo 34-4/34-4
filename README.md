@@ -33,7 +33,7 @@
   <img src="https://cdn3.emoji.gg/emojis/77766-sakura.gif" width="20" height="20" alt="sakura" style="vertical-align: middle; margin-left: 6px;"/>
 </div>
 
-<img align="right" src="https://lanyard.cnrad.dev/api/367754019533488129" alt="Discord Status">
+<img align="left" src="https://lanyard.cnrad.dev/api/367754019533488129" alt="Discord Status">
 
 
 <br><br>
