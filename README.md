@@ -35,7 +35,7 @@
 
 <br><br>
 
-<img align="center" src="https://lanyard.cnrad.dev/api/367754019533488129" alt="Discord Status">
+<img align="center" src="https://lanyard.cnrad.dev/api/367754019533488129?showDisplayName=true&idleMessage=probably%20watching%20you%20%3C3" alt="Discord Status">
 
 
 <br><br>
