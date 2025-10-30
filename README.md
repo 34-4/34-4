@@ -4,7 +4,7 @@
 <sub>
     <p align="center">
         <i>
-            saika.moe
+            yurii.moe
         </i>
     </p>
 </sub>
@@ -35,8 +35,6 @@
 
 <br><br>
 
-<img align="center" src="https://lanyard.cnrad.dev/api/367754019533488129?showDisplayName=true&idleMessage=probably%20watching%20you%20%3C3" alt="Discord Status">
-
 
 <br><br>
 
@@ -50,12 +48,12 @@
 
 
 
-<br><br><br> <!-- evil? mhm.. maybe? or is this like a reward for scrolling to the end? (too much <br> tags in this code..) -->
+<br><br><br> <!-- evil? maybe? or is this like a reward for scrolling to the end? (too much <br> tags in this code..) -->
 
 <sub>
     <p align="center" style="margin-top: 20px;">
         <i>
-             Once you reach the end, you'll get a reward they said..
+             Once you reach the end, you'll get a reward a wise man told me..
         </i>
     </p>
 </sub>
@@ -65,7 +63,7 @@
 <sub>
     <p align="center" style="margin-top: 20px;">
         <i>
-             Looks like they actually didn't lie, but mhm.. a gif as a reward for scrolling someone GitHub readme profile?
+            He actually didn't lie mhm.. with purest honesty... a gif as a reward for scrolling someone GitHub readme profile?
         </i>
     </p>
 </sub>
