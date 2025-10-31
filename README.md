@@ -63,7 +63,9 @@
 <sub>
     <p align="center" style="margin-top: 20px;">
         <i>
-            He actually didn't lie mhm.. with purest honesty... a gif as a reward for scrolling someone GitHub readme profile?
+            He actually didn't lie mhm...
+            <br>
+            With purest honesty.. a gif as a reward for scrolling someone GitHub readme profile?
         </i>
     </p>
 </sub>
